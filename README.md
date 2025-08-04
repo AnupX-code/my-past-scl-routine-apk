@@ -17,8 +17,6 @@ A simple and elegant **Flutter app** of **my past school routine** — built wit
 
 Custom theme: DarkPad
 
-State management: setState / Provider (depending on your implementation)
-
 Clean and readable UI code
 
 # 📄 License

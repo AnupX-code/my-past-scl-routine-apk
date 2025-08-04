@@ -1,6 +1,6 @@
 # 🏫 My School Routine App
 
-A simple and elegant **Flutter app** **my past school routine** — built with ❤️ using Flutter and DarkPad theme.
+A simple and elegant **Flutter app** of **my past school routine** — built with ❤️ using Flutter and DarkPad theme.
 
 ---
 

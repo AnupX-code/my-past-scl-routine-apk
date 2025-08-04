@@ -6,7 +6,7 @@ A simple and elegant **Flutter app** **my past school routine** — built with �
 
 ## ✨ Features
 
-- 🗓️ Displays your **daily class routine**
+- 🗓️ Displays my **daily class routine**
 - ⏰ Shows **class timings** and **subjects**
 - 👨‍🏫 Includes **teacher names**
 - 🌙 Beautiful **Dark UI** (DarkPad style)

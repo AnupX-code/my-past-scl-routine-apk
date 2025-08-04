@@ -12,7 +12,7 @@ A simple and elegant **Flutter app** **my past school routine** — built with �
 - 🌙 Beautiful **Dark UI** (DarkPad style)
 - 📱 Responsive & lightweight UI
 
-# 🧑‍💻 Built With
+# 🧑‍💻 Built With :
 **Flutter**
 
 Custom theme: DarkPad
